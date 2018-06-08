@@ -1,2 +1,2 @@
 # single-page-with-carousel
-# single-page-with-carousel
+Single webpage with carousel template
